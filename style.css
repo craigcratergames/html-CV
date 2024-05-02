@@ -1,0 +1,45 @@
+body {
+    background-color: antiquewhite;
+}
+
+h1 {
+    text-align: center;
+    color: black;
+    background-color: bisque;
+}
+
+h2 {
+    text-align: center;
+    color:  black;
+    background-color: bisque;
+}
+
+img {
+    height: 100px;
+    width: 75px;
+}
+
+.container {
+    text-align: center;
+}
+
+h3 {
+    text-align: center;
+    color: black;
+    background-color: bisque;
+}
+
+h4 {
+    text-align: center;
+    color: black;
+    background-color: bisque;
+}
+
+  a {
+    text-decoration: none;
+  }
+
+  * {
+    font-family: 'Times New Roman', Times, serif
+  }
+
