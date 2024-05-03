@@ -1,15 +1,19 @@
 body {
     background-color: antiquewhite;
+    border: solid black;
+    border-width: 10px 10px;
 }
 
 h1 {
-    text-align: center;
+    font-size: 40px;
+    font-weight: 100;
     color: black;
     background-color: bisque;
 }
 
 h2 {
-    text-align: center;
+    font-size: 40px;
+    font-weight: 100;
     color:  black;
     background-color: bisque;
 }
@@ -24,13 +28,15 @@ img {
 }
 
 h3 {
-    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
     color: black;
     background-color: bisque;
 }
 
 h4 {
-    text-align: center;
+    font-size: 30px;
+    font-weight: 100;
     color: black;
     background-color: bisque;
 }
@@ -40,6 +46,17 @@ h4 {
   }
 
   * {
-    font-family: 'Times New Roman', Times, serif
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin: 0;
+    padding: 5px;
   }
+
+  ul {
+    text-decoration: none;
+    list-style-type: none;
+  }
+
+
+
 
